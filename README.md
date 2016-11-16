@@ -10,10 +10,23 @@ Lista concisa de alguns projetos que utilizo.
 
 ## Backend
 
+### Bancos
 - [Mongoose]()
+
+### AI
+
 - [Express]()
 - [Hapi]()
 - [Passport]()
 - [Socket.io]()
 - [Babel]()
+
+### Task Runners
+
 - [Gulp]()
+
+### Testes
+
+- [Mocha]()
+- [Chai]()
+- [Supertest]()
